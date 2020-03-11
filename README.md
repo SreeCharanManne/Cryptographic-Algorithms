@@ -8,5 +8,5 @@ This is a public Repository which consists of Cryptographic Algorithms like
 For the integrity check purpose we have used MD5 & SHA
 
 
-NOTE:Everything is written in java using JFrames and awt.Frames
+NOTE:  Everything is written in java using JFrames and awt.Frames
 
